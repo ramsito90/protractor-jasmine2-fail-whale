@@ -1,0 +1,35 @@
+{
+  "name": "protractor-jasmine2-fail-whale",
+  "version": "1.2.2",
+  "description": "Bails Jasmine 2 tests fast when a Spec fails. Takes screenshots.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/radialanalytics/protractor-jasmine2-fail-whale.git"
+  },
+  "keywords": [
+    "jasmine",
+    "protractor",
+    "screenshot",
+    "test",
+    "fail",
+    "bail",
+    "fast",
+    "whale",
+    "jasmine2"
+  ],
+  "author": "F1LT3R",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/radialanalytics/protractor-jasmine2-fail-whale/issues"
+  },
+  "homepage": "https://github.com/radialanalytics/protractor-jasmine2-fail-whale#readme",
+  "dependencies": {
+    "bluebird": "^3.3.0",
+    "mkdirp": "^0.5.1",
+    "sanitize-filename": "^1.5.3"
+  }
+}
